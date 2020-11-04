@@ -15,14 +15,14 @@
 title: Jeoni's Paper Review on ML and AI  
 description: Machine Learning and Artificial Intelligence Paper Review by Jeoni.<br>This blog is for personal purpose of leaving records on interesting topics of machine learning for research
 baseurl: "" # the subpath of your site, e.g. /blog
-url: 'https:/yoonkim313.github.io' # the base hostname & protocol for your site, e.g. http://example.com
+url: 'https:/yoonkim313.github.io' 
 github_repo: yoonkim313.github.io # the GitHub repo name for your project
 github_username: yoonkim313
 
 # Optional social link, you can choose from the following options:
 # twitter (default), instagram, medium, or dribbble
-social_link: twitter
-social_username: yoonkim313
+social_link: instagram
+social_username: jeonijeoni
 
 # Set theme color here
 # Choose from: black (default), blue, gray, magenta, orange, red, white, and yellow.

@@ -2,7 +2,7 @@
 layout: category-post
 title:  Towards a Unified Analysis of Random Fourier Features
 date:   2020-11-03 09:00:00 -0000
-categories: writing
+categories: paper_reviews
 ---
 [**Paper**](https://arxiv.org/abs/1806.09178)
 

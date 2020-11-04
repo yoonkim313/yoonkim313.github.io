@@ -5,14 +5,6 @@ date:   2020-11-04 05:00:00 -0000
 use_math: true
 categories: paper_reviews
 ---
-
----
-layout: category-post
-title:  Out of Distribution Tasks
-date:   2020-11-04 05:00:00 -0000
-categories: paper_reviews
-use_math: true
----
 ## :blue_book: Likelihood Ratios for Out-of-Distribution Detection [NeurIPS 2019]
 [paper] <https://arxiv.org/abs/1906.02845>
 > ## Detecting OOD inputs

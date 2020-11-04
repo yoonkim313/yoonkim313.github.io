@@ -16,11 +16,10 @@ use_math: true
 > 2. Types of Adversarial Inputs
 >> - FGSM(Fast Gradient Sign Method)
 >> - PGD(Projected Gradient Descent)
-
- **PGD from Conditioned Optimization Problems**
-> $$min_{x \in X} f(x)$$ $X$ is a convex set, $f(x)$ is a convex function
-    Our target point $x_t$ might not be in the convex set therefore let $$x_{t+1} = x_t - \frac{\nabla f(x_t)}{L}$$ where $x_{t+1}$ is a projection of $x_t$ onto the set $X$
-    $\rightarrow$ Above methods are used to create a **_good attack_**. <br>PGD is the strongest attack with local First Order information of the network. Therefore the paper suggests that **if we train a model robust against the PGD adversaries**, then it is robust against wide variety of _first order adversaries_.
+>> **PGD from Conditioned Optimization Problems**
+>>> - $$min_{x \in X} f(x)$$ $X$ is a convex set, $f(x)$ is a convex function
+>>> - Our target point $x_t$ might not be in the convex set therefore let $$x_{t+1} = x_t - \frac{\nabla f(x_t)}{L}$$ where $x_{t+1}$ is a projection of $x_t$ onto the set $X$
+>>> - $\rightarrow$ Above methods are used to create a **_good attack_**. <br>PGD is the strongest attack with local First Order information of the network. Therefore the paper suggests that **if we train a model robust against the PGD adversaries**, then it is robust against wide variety of _first order adversaries_.
     
   
 -------------------------------------------------------------------

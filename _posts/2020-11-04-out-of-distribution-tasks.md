@@ -35,7 +35,7 @@ use_math: true
 
 > ## Likelihood Ratio for AR models
 >> - 같은 방식으로 probability distribution을 background와 semantic으로 분해 가능하다.
->> - $LLR(x) \approx \sum log p_\theta(x_d|x_{<d}) - \sum log p_{\theta_0}(x_d|x_{<d}) = \sum log \frac{p_\theta(x_d|x_{<d})}{p_{\theta_0}(x_d|x_{<d})}$
+>> - $LLR(x) \approx \sum{log p_\theta(x_d|x_{<d})} - \sum{log p_{\theta_0}(x_d|x_{<d})} = \sum {log \frac{p_\theta(x_d|x_{<d})}{p_{\theta_0}(x_d|x_{<d})}}$
 
 
 ## :green_book: Deep Anomaly Detection with Outlier Exposure [ICLR 2019]

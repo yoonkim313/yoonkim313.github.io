@@ -1,10 +1,9 @@
-
 ---
 layout: category-post
 title:  Out of Distribution Tasks
 date:   2020-11-04 05:00:00 -0000
-categories: paper_reviews
 use_math: true
+categories: paper_reviews
 ---
 
 ---

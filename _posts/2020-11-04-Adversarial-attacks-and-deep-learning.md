@@ -1,10 +1,9 @@
-
 ---
 layout: category-post
 title:  Adversarial Attacks and Deep Learning
 date:   2020-11-04 09:00:00 -0000
-categories: paper_reviews
 use_math: true
+categories: paper_reviews
 ---
 ## :closed_book: Towards Deep Learning Models Resistant to Adversarial Attacks
  적대적 공격에 대해서 robust한 모델을 훈련시킬 수 있을까?

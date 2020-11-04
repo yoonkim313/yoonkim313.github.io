@@ -2,8 +2,8 @@
 layout: category-post
 title:  Shifted Data and Robust Models
 date:   2020-11-04 05:00:00 -0000
-categories: paper_reviews
 use_math: true
+categories: paper_reviews
 ---
 ## :blue_book: Benchmarking Neural Network Robustness to Common Corruptions and Perturbations [ICLR 2019]
 

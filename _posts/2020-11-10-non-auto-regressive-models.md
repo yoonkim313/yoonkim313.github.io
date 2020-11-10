@@ -1,4 +1,3 @@
-
 ---
 layout: category-post
 title:  Non-Auto Regressive Model

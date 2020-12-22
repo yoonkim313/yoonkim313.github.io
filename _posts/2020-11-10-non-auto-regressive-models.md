@@ -1,3 +1,4 @@
+
 ---
 layout: category-post
 title:  Non-Auto Regressive Model
@@ -5,7 +6,6 @@ date:   2020-11-10 05:00:00 -0000
 categories: paper_reviews
 use_math: true
 ---
-
 ## :blue_book: An EM Approach to Non-autoregressive Conditional Sequence Generation [ICML 2020]
 [paper] <https://arxiv.org/abs/2006.16378>
 > ## AR vs NAR
